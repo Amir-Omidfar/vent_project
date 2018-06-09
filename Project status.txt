@@ -1,0 +1,8 @@
+Started with this tutorial:
+https://diyprojects.io/bootstrap-create-beautiful-web-interface-projects-esp8266/#What_is_Bootstrap
+learned about ESP web interface a bit.
+Date: 6/9/18
+Today followed this tutorial and got a better web interface:
+https://randomnerdtutorials.com/esp8266-web-server-with-arduino-ide/
+Next step Modify this code and make a better web interface
+
